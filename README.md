@@ -5,7 +5,7 @@
 
 - Potr landing [Potr landing](https://github.com/LordAsmodey/Potr-landing)
 
-- React Todo App [React Todo App] (https://github.com/LordAsmodey/REACT-TodoList-API)
+- React Todo App [React Todo App](https://github.com/LordAsmodey/REACT-TodoList-API)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
