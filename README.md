@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Oleg</h1>
-<h3 align="center">I'm glad to see you on my GitHub account. I started learning frontend development in 2022, here are my works:</h3>
+<h3 align="center">I'm frontend developer. I started learning frontend development in 2022, here are my works:</h3>
 
 - Landing Miami [Landing Miami](https://github.com/LordAsmodey/miami-landing)
 
