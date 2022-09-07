@@ -5,6 +5,8 @@
 
 - Potr landing [Potr landing](https://github.com/LordAsmodey/Potr-landing)
 
+- React Todo App [React Todo App] (https://github.com/LordAsmodey/REACT-TodoList-API)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oleg-vetrov-a580b5238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-vetrov-a580b5238" height="30" width="40" /></a>
