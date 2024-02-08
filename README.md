@@ -1,11 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Oleg</h1>
-<h3 align="center">I'm frontend developer. I started learning frontend development in 2022, here are my works:</h3>
-
-- Landing Miami [Landing Miami](https://github.com/LordAsmodey/miami-landing)
-
-- Potr landing [Potr landing](https://github.com/LordAsmodey/Potr-landing)
-
-- React Todo App [React Todo App](https://github.com/LordAsmodey/REACT-TodoList-API)
+<h3 align="center">I'm frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
