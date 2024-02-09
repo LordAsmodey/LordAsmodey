@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Oleg</h1>
-<h3 align="center">I'm frontend developer</h3>
+<h3 align="center">I am a front-end developer focused on developing effective and innovative websites and mobile applications in React and React Native lib.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
