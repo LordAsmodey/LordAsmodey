@@ -32,15 +32,6 @@ I design and build scalable web, mobile, and AI-powered applications — from ar
 
 ---
 
-### 🧩 What I Care About
-
-- Clean, scalable architecture  
-- Performance and reliability  
-- Developer experience & automation  
-- Predictable, type-safe systems  
-
----
-
 ### 🌐 Connect with me
 
 <p align="left">
